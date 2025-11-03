@@ -45,7 +45,7 @@ Create the file hello.txt using echo and redirection
 
 Copy the file hello.txt into the file hello1.txt
 
-<img width="781" height="429" alt="image" src="https://github.com/user-attachments/assets/def20943-e6b2-43bc-9c22-1924a760a7cd" />
+<img width="862" height="85" alt="image" src="https://github.com/user-attachments/assets/ba02979b-4dcb-4a44-a9b9-60821f401c2e" />
 
 ## COMMAND AND OUTPUT
 
