@@ -19,51 +19,52 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
+
 Create a directory named "my-folder"
 
-<img width="413" height="42" alt="image" src="https://github.com/user-attachments/assets/8ad6376d-b4ad-4b40-934d-59f0293ec845" />
+<img width="728" height="248" alt="image" src="https://github.com/user-attachments/assets/86b1feb7-98c8-48c4-9792-57632f7b604f" />
+
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
 
-<img width="419" height="52" alt="image" src="https://github.com/user-attachments/assets/18267d9b-2ed7-4034-89c0-4ae242cb3ec2" />
-
+<img width="556" height="32" alt="image" src="https://github.com/user-attachments/assets/900c165b-2e94-461d-8cf9-860307277834" />
 
 ## COMMAND AND OUTPUT
 
 Create the file Rose.txt
 
-<img width="580" height="87" alt="image" src="https://github.com/user-attachments/assets/33d90a1e-abbb-4360-b955-9bc508a6eed0" />
+<img width="562" height="85" alt="image" src="https://github.com/user-attachments/assets/78158e48-6bb1-4198-a614-74d0d7ee5b18" />
 
 ## COMMAND AND OUTPUT
 
 Create the file hello.txt using echo and redirection
 
-<img width="945" height="46" alt="image" src="https://github.com/user-attachments/assets/9df5ac0f-8e6b-42a9-bb51-a99aa08dc30d" />
+<img width="622" height="36" alt="image" src="https://github.com/user-attachments/assets/cb10d90f-c85e-4fe5-9e19-fb981218c1ff" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
 
-<img width="862" height="85" alt="image" src="https://github.com/user-attachments/assets/ba02979b-4dcb-4a44-a9b9-60821f401c2e" />
+<img width="678" height="67" alt="image" src="https://github.com/user-attachments/assets/69cf62c5-a4c6-4fdd-bf8c-9336f4e7ba52" />
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
 
-<img width="517" height="42" alt="image" src="https://github.com/user-attachments/assets/bfa98e93-9de8-4da2-b669-3a734a118be7" />
+<img width="537" height="45" alt="image" src="https://github.com/user-attachments/assets/a2d75b3e-b340-40e7-9f16-ef6fdd5d794a" />
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
 
-<img width="762" height="271" alt="image" src="https://github.com/user-attachments/assets/84674505-2b29-49b4-8b32-2132628f6451" />
+<img width="647" height="313" alt="image" src="https://github.com/user-attachments/assets/7f555b43-bd97-41b6-903e-81523eab986d" />
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
 
-<img width="863" height="590" alt="image" src="https://github.com/user-attachments/assets/bce40070-e533-4e11-a0dd-15e1a5ce3d9d" />
+<img width="671" height="448" alt="image" src="https://github.com/user-attachments/assets/c39604d0-811a-42be-bf9d-b0a61cfd45de" />
 
 ## COMMAND AND OUTPUT
 
